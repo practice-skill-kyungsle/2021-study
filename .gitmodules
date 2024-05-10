@@ -1,3 +1,9 @@
 [submodule "2103-clone-google-page"]
 	path = 2103-clone-google-page
 	url = https://github.com/practice-skill-kyungsle/clone-google-page.git
+[submodule "2104-practice-display-flex"]
+	path = 2104-practice-display-flex
+	url = https://github.com/practice-skill-kyungsle/pactice-display-flex.git
+[submodule "2112-study-html-css"]
+	path = 2112-study-html-css
+	url = https://github.com/practice-skill-kyungsle/study-html-css.git
